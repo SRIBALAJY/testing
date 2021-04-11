@@ -13,9 +13,11 @@ body{
 }
 .cloud2{
   position: absolute;
+  bottom: 300px;
+  left: 300px;
 }
 .mountain{
-  width: 50%;
+  width: 70%;
 }
 h1{
   font-size: 5.25rem;
